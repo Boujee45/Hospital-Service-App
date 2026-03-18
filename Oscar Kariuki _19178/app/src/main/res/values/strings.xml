@@ -1,0 +1,50 @@
+<resources>
+
+    <string name="app_name">Hospital Service Request</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="emailForgot">Email Sent!,If this email is connected to your account you\'ll be able
+    to reset your password😊</string>
+    <string name="phoneForgot">Message Sent!,If this phone No is connected to your account you\'ll be able
+    to reset your password😊</string>
+    <string name="search">Search</string>
+    <string name="form">Form</string>
+    <string name="ward">Ward</string>
+    <string name="bedNo">Bed No.</string>
+    <string name="phoneNo">Phone Number</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="password2">Confirm Password</string>
+    <string name="login">Login</string>
+    <string name="backLogin">Back to login</string>
+    <string name="accountTitle">Let\'s find your Account</string>
+    <string name="emPhone">What\'s your email or Phone No?</string>
+    <string name="forgot">Forgot your password?</string>
+    <string name="logout">Logout</string>
+    <string name="display">Thank you for downloading the app, Right here you will receive the best
+    offers and also get the latest trends in electronics , Engineering, Technology, Fashion and
+    news on sports and day to day activities.</string>
+    <string name="homeTitle">Home Page</string>
+    <string name="user">Username or email already exists😅</string>
+    <string name="loginText">Already have an account? Login</string>
+    <string name="signup">Don\'t have an account? Signup</string>
+    <string name="signup_Title">Sign Up</string>
+    <string name="cancel">Cancel</string>
+    <string name="signup_success">Successfully Signed Up. You can now login😎</string>
+    <string name="signup_failed">Failed to Signed Up. Please Try Again!☺</string>
+    <string name="empty_fields">Please fill in all fields</string>
+    <string name="invalid_email">Invalid input. Please enter valid email address❗</string>
+    <string name="short_password">Invalid input. Please enter a 6 length password❗</string>
+    <string name="weak_password">Invalid input. Please enter a stronger password❗</string>
+    <string name="confirm_password">Invalid input. The passwords are not the same❗</string>
+    <string name="login_success">You have successfully logged in 😊😊</string>
+    <string name="invalid_credentials">Incorrect Username or Password. Please try again 😥😥</string>
+    <string name="login_failed">Login failed. Contact support</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string-array name="hospital_services">
+        <item>Cleaning (CL001)</item>
+        <item>Equipment assistance (EP002)</item>
+        <item>Linen change (LC001)</item>
+        <item>Porter services (PS001)</item>
+    </string-array>
+</resources>
